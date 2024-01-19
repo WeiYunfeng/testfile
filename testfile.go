@@ -18,4 +18,5 @@ func main() {
 	fmt.Println("第二次修改")
 	fmt.Println("第三次修改")
 	fmt.Println("feature2")
+	fmt.Println("其实我就是想试试我push以后会不会触发github的自动合并请求")
 }
